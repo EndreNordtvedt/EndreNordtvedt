@@ -3,9 +3,8 @@
 - Dataingeniør
 - Engasjert og lærevillig utvikler
 
-Skills: JAVA / JS / HTML / CSS
+Skills: JAVA / python / HTML / CSS / terraform
 
-- 🌱 I’m currently learning JavaScript / React / Python / Pandas 
 - 📫 How to reach me: endre.nordtvedt@gmail.com 
 
 
